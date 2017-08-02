@@ -4,5 +4,7 @@ public class Adele {
 		System.out.println("adele");
 		System.out.println("hello");
 		System.out.println("its me");
+		System.out.println("aff");
+		System.out.println("tst");
 	}
 }
